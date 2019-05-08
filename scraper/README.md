@@ -7,3 +7,7 @@
 Output is the list of flavor names.
 
 `node capella.js`
+
+# Run the tpa scraper (WIP)
+
+`node tpa.js`
