@@ -1,0 +1,9 @@
+{
+  "name": "gusta-scraper",
+  "version": "0.0.1",
+  "description": "Sample scraper",
+  "license": "pending",
+  "devDependencies": {
+    "jsdom": "^15.0.0"
+  }
+}
